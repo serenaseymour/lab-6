@@ -16,4 +16,4 @@ elif option == 2:
   print(f"{num1} - {num2} = {num3}")
   
 else:
-  print("Error: Invalid selction")
+  print("Error: Invalid selection")
